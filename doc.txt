@@ -3,3 +3,6 @@ hello how are uou todsy
 today
 tommorrow
 next day
+monday
+
+tuesday
