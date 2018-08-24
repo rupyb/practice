@@ -30,3 +30,6 @@
         event.preventDefault();
     });
 }());
+
+var x = ['john', 'mike', 'pete'];
+console.log(x[1]);
