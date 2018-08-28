@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-four
-=======
-on two three
->>>>>>> app01
-tgsdbgfnfgf
